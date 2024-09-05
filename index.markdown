@@ -20,7 +20,7 @@ layout: empty
 * Инулин - пища для полезных бактерий, которые живут на поверхности кожи. А чем лучше себя чувствуют полезные бактерии кожи, тем меньше патогенных, которые могут вызывать различные высыпания.
 
 Для тех, кто разбирается в составах косметики прикрепляю полный состав:
-> INCI: Water, C12-15 Alkyl Benzoate, Propylene Glycol, , Hemp Oil Pressed, Sesamum Indicum Seed Oil, Glycerin, β-Sitosterol, Hydroxyethyl urea, Panthenol, Epilobium Angustifolium Leaf Extract, NMF Complex (Betaine; Sodium PCA; Sorbitol; Serine; Glycine; Glutamic Acid; Alanine; Lysine; Arginine; Threonine; Proline), Glyceryl Stearate, Cetearyl Alcohol, Cetearyl Gluсoside, Ethylhexylglycerin, Phenoxyethanol, Cetyl Alcohol, Potassium Cetyl Phosphate, Allantoin, Инулин,  Bisabolol, Oryza Sativa (Rice) Bran Wax, Lactic Acid, Xanthan Gum, Ethylparaben, Propylparaben, Parfum.
+> INCI: Water, C12-15 Alkyl Benzoate, Propylene Glycol, , Hemp Oil Pressed, Sesamum Indicum Seed Oil, Glycerin, β-Sitosterol, Hydroxyethyl urea, Panthenol, Epilobium Angustifolium Leaf Extract, NMF Complex (Betaine; Sodium PCA; Sorbitol; Serine; Glycine; Glutamic Acid; Alanine; Lysine; Arginine; Threonine; Proline), Glyceryl Stearate, Cetearyl Alcohol, Cetearyl Gluсoside, Ethylhexylglycerin, Phenoxyethanol, Cetyl Alcohol, Potassium Cetyl Phosphate, Allantoin, Inulin,  Bisabolol, Oryza Sativa (Rice) Bran Wax, Lactic Acid, Xanthan Gum, Ethylparaben, Propylparaben, Parfum.
 
 ## А теперь подробнее о том, как тестировать продукт:
 
